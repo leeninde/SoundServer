@@ -1,0 +1,6 @@
+# SoundServer
+Audio server on Linux for theatre cue backend. 
+Coded in C++ using gstreamer. 
+Allows commands to be sent to TCP port to create, play and control sound cues remotely. 
+Clients to be created later.
+
